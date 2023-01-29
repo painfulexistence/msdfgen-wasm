@@ -1,7 +1,0 @@
-{
-    "name": "msdfgen-wasm",
-    "version-string": "0.0.0",
-    "dependencies": [
-        "msdfgen"
-    ]
-}
